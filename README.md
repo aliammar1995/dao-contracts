@@ -1,7 +1,5 @@
 # DAO Contracts
 
-[![codecov](https://codecov.io/gh/DA0-DA0/dao-contracts/branch/main/graph/badge.svg?token=SCKOIPYZPV)](https://codecov.io/gh/DA0-DA0/dao-contracts)
-
 This is a collection of smart contracts for building composable, modular, and upgradable DAOs.
 
 For a detailed look at how these contracts work, see [our wiki](https://github.com/DA0-DA0/dao-contracts/wiki/DAO-DAO-Contracts-Design).
@@ -24,24 +22,7 @@ Each module type has a [standard interface](https://github.com/DA0-DA0/dao-contr
 
 The best way to get started is to create a DAO! We maintain an [open source](https://github.com/DA0-DA0/dao-dao-ui) frontend you can find at [daodao.zone](https://daodao.zone).
 
-## Why?
 
-Our institutions grew rapidly after 1970, but as time passed their priorities shifted from growth, to protectionism. We're fighting this. We believe The Internet is where the organizations of tomorrow will be built.
-
-DAO DAO is a global community working on Internet governance, and [a real DAO](https://daodao.zone/dao/juno10h0hc64jv006rr8qy0zhlu4jsxct8qwa0vtaleayh0ujz0zynf2s2r7v8q#proposals). We've never raised money, and all our work is open-source. We hope you'll [join us](https://discord.gg/sAaGuyW3D2).
-
-## Links and Resources
-
-- [DAO DAO DAO](https://daodao.zone/dao/juno10h0hc64jv006rr8qy0zhlu4jsxct8qwa0vtaleayh0ujz0zynf2s2r7v8q)
-- [Discord](https://discord.gg/sAaGuyW3D2)
-- [Docs](https://docs.daodao.zone)
-- [Manually Instantiating a DAO](https://github.com/DA0-DA0/dao-contracts/wiki/Instantiating-a-DAO)
-- [Twitter](https://github.com/DA0-DA0)
-- [What is a DAO?](https://docs.daodao.zone/docs/introduction/what-is-dao)
-
-## Developers
-
-Information about our development workflow and how to contribute can be found in [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Testing
 
