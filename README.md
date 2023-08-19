@@ -2,9 +2,6 @@
 
 This is a collection of smart contracts for building composable, modular, and upgradable DAOs.
 
-For a detailed look at how these contracts work, see [our wiki](https://github.com/DA0-DA0/dao-contracts/wiki/DAO-DAO-Contracts-Design).
-
-Our most recently [audited](https://github.com/oak-security/audit-reports/blob/master/DAO%20DAO/2023-02-06%20Audit%20Report%20-%20DAO%20DAO%202%20v1.0.pdf) release is `v2.0.0`. If you believe you have found a problem, please [let us know](SECURITY.md).
 
 ## Overview
 
